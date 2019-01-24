@@ -130,36 +130,6 @@
      max-height: 128px !important;
 }
 
-.new-product-upload-img {
-    width: 128px;
-    height: 128px;
-    max-height: 128px !important;
-    max-height: 128px !important;
-}
-
-.slot-config-card {
-    margin-bottom: 20px;
-}
-
-.hc-form-add-slot-btn {
-    float: right;
-}
-
-.product-attribute-container {
-    width: 100%;
-    border: 1px solid #e4e4e4;
-    margin-bottom: 20px;
-    padding: 10px;
-}
-
-..product-attribute-container h3 {
-    margin-bottom: 10px;
-}
-
-.product-attribute-container .ant-divider-horizontal {
- margin-top: 10px;
-}
-
 .article-uploader .ant-upload {
     width: 100% !important;
     height: 250px !important;
